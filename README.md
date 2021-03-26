@@ -1,2 +1,2 @@
 # File1
-#editted with GitHub
+editted with GitHub
